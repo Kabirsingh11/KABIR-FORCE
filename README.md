@@ -10,7 +10,7 @@ $ git clone https://github.com/Kabirsingh11/KABIR-FORCE
 $ cd KABIR-FORCE
 $ ls
 $ pip install -r requirements.txt
-$ python force.py
+$ python Force.py
 ```
 
 #### Update tools
