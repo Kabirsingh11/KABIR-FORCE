@@ -167,7 +167,7 @@ def goblok():
 		find_token = re.search("(EAAG\w+)", data.text)
 		tok = open(".token.txt", "w").write(find_token.group(1));jadi()
 		cok = open(".cok.txt", "w").write(cookie)
-		bh = f"{P2}Login Success, retype : {H2}python force.py{P2}"
+		bh = f"{P2}Login Success, retype : {H2}python Force.py{P2}"
 		Buat(Anak(bh,width=50,style=f"{U3}"))
 		exit()
 	except Exception as e:
